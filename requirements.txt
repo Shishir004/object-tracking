@@ -1,5 +1,5 @@
-ultralytics
+streamlit==1.33.0
 opencv-python-headless==4.9.0.80
+ultralytics==8.0.221
 deep-sort-realtime
-streamlit
 numpy
